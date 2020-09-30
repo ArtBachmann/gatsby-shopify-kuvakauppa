@@ -5,5 +5,5 @@ export const LayoutWrapper = styled.div`
   max-width: 1200px;
   box-sizing: border-box;
   padding: 0 20px 40px 20px;
-  color: red;
+  color: #512039;
 `
